@@ -1,0 +1,14 @@
+# Downloads, local hardware state, backups, and generated releases are private.
+dist/
+windows/data/
+windows/*.log
+*.dmp
+*.etl
+*.exe
+*.dll
+*.zip
+*.7z
+*.tar.gz
+install-result.json
+setup.json
+.local-tools/

@@ -1,0 +1,24 @@
+{
+  "version": "0.1.0",
+  "amd": {
+    "version": "23.10.01.14",
+    "displayDriverVersion": "31.0.21001.14018",
+    "url": "https://drivers.amd.com/drivers/amd-software-adrenalin-edition-23.10.01.14-win10-win11-work-graphs.exe",
+    "file": "amd-agility-23.10.01.14.exe",
+    "sha256": "493a0be5819d22df3a0372e621270beb05a4772cd2d5dc4badc4c3979ececd3e",
+    "notes": "https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-MS-AGILITY-SDK-2023-6-711.html"
+  },
+  "proxy": {
+    "repository": "https://github.com/Megadroidgames/Forza-Horizon-6-RX-580-FH201-FH205-Fix",
+    "commit": "8448b2a0f5f4350f6e574a293a7b34f6cbbc59e1",
+    "url": "https://raw.githubusercontent.com/Megadroidgames/Forza-Horizon-6-RX-580-FH201-FH205-Fix/8448b2a0f5f4350f6e574a293a7b34f6cbbc59e1/bin/d3d12.dll",
+    "file": "d3d12.dll",
+    "sha256": "f307fc5ef567debca6d090922d27de135b3f29bc578962db61cddc3137ac1128"
+  },
+  "knownProxyHashes": [
+    "f307fc5ef567debca6d090922d27de135b3f29bc578962db61cddc3137ac1128",
+    "851e85698bb0906f3b65f23dcd10a4d022684151ba53fd77e65a0f3dd1d273c6",
+    "e52f2622c40b1491fb667fd8d673eb3ebf5de44dab8f7548f1a8f2b509927909",
+    "7e059feeca6ee63a322192bfdf59d62d67c939b1162d4e495d80dd553a15289d"
+  ]
+}
